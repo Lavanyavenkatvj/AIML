@@ -1,4 +1,6 @@
-num = "1,2,3,4,5"
+# Day 1 - Python basics for AI
+
+name = "Lavanya"
 
 for i in range(5):
-    print(num, i)
+    print(name, "learning AI", i)
