@@ -1,4 +1,4 @@
-name = "Lavanya"
+num = "1,2,3,4,5"
 
 for i in range(5):
-    print(name, i)
+    print(num, i)
